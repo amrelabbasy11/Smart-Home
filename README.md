@@ -4,8 +4,9 @@
 This Smart Home project is designed to control and monitor various appliances and features within a home environment. The project focuses on three rooms, with functionalities such as:
 - **TV Control**
 - **Air Conditioner (AC) Control**
-- 
-![image](https://github.com/user-attachments/assets/0e9b430b-a28f-4288-9a57-910d35d86f4d)
+  
+![image](https://github.com/user-attachments/assets/a712dbab-9048-4116-8369-ddca80999fed)
+
 
 ## Technical Details
 - **Microcontroller:** AVR (ATmega32)
