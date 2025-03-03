@@ -7,7 +7,14 @@ This Smart Home project is designed to control and monitor various appliances an
   
 ![image](https://github.com/user-attachments/assets/a712dbab-9048-4116-8369-ddca80999fed)
 
+# This is the view when we run : 
 
+![image](https://github.com/user-attachments/assets/40a060b4-4bbf-44b6-903b-f688bd95d100)
+1. Select Mode.
+2. Write Password.
+3. Choose The desired room.
+4. Choose the action that you want.
+   
 ## Technical Details
 - **Microcontroller:** AVR (ATmega32)
 - **Communication Protocols:** SPI (Serial Peripheral Interface)
